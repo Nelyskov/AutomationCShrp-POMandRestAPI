@@ -8,6 +8,13 @@ using System.Threading.Tasks;
 
 namespace AutomationC__lesson6_POM.LiteCartDemo_MakeOrder
 {
+    /// <summary>
+    /// Сбор элементов для прохождения авторизации на сайте
+    /// signIn - поиск кнопки для открытия меню (выпадающего списка) авторизации
+    /// email, password - ввод почты и пароля
+    /// loginBtn - кнопка авторизации, нажимать после ввода почты и пароля
+    /// alert - отображаемое сообщение после авторизации
+    /// </summary>
     public class MainPage
     {
         public IWebDriver driver;

@@ -8,6 +8,11 @@ using System.Threading.Tasks;
 
 namespace AutomationC__lesson6_POM.LiteCartDemo_MakeOrder
 {
+
+    /// <summary>
+    /// Базовый класс для создания драйвера / завершения работы
+    /// url - первое окно при инициализации драйвера, в дальнейшем в ручную Navigate().GoToUrl("url");
+    /// </summary>
     public abstract class TestBase
     {
         protected IWebDriver Driver;

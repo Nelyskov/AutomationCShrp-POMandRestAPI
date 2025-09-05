@@ -33,7 +33,6 @@ namespace AutomationC__lesson6_POM.LiteCartDemo_Tests
             var cartPage = new CartPage(Driver);
             cartPage.AcceptTermsAndConfirmOrder();
 
-            // Проверка успешного оформления заказа
             cartPage.CheckOrderSuccess("was completed successfully!");
         }
     }
