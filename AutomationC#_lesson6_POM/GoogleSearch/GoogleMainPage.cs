@@ -8,8 +8,10 @@ namespace AutomationC__lesson6_POM.GoogleSearch
     public class GoogleMainPage
     {
         IWebDriver _driver;
-
-        [FindsBy(How = How.CssSelector, Using = "#APjFqb")]
+/// <summary>
+/// using actual CssSelector on google.com
+/// </summary>
+        [FindsBy(How = How.CssSelector, Using = "#A123")]
         public IWebElement searchField;
 
         public GoogleMainPage(IWebDriver driver)
