@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VS\\AutomationC#_lesson7_RestAPIExample_fakejsonServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10BB0BDD-986F-48A6-ACCC-42DC457FCA98}|AutomationC#_lesson7_RestAPIExample_fakejsonServer.csproj|d:\\vs\\automationc#_lesson7_restapiexample_fakejsonserver\\json_fakeserver_methods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10BB0BDD-986F-48A6-ACCC-42DC457FCA98}|AutomationC#_lesson7_RestAPIExample_fakejsonServer.csproj|solutionrelative:json_fakeserver_methods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BB0BDD-986F-48A6-ACCC-42DC457FCA98}|AutomationC#_lesson7_RestAPIExample_fakejsonServer.csproj|d:\\vs\\automationc#_lesson7_restapiexample_fakejsonserver\\postobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10BB0BDD-986F-48A6-ACCC-42DC457FCA98}|AutomationC#_lesson7_RestAPIExample_fakejsonServer.csproj|solutionrelative:postobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BB0BDD-986F-48A6-ACCC-42DC457FCA98}|AutomationC#_lesson7_RestAPIExample_fakejsonServer.csproj|d:\\vs\\automationc#_lesson7_restapiexample_fakejsonserver\\restsharp_test_api_github.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10BB0BDD-986F-48A6-ACCC-42DC457FCA98}|AutomationC#_lesson7_RestAPIExample_fakejsonServer.csproj|solutionrelative:restsharp_test_api_github.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PostObject.cs",
+              "DocumentMoniker": "D:\\VS\\AutomationC#_lesson7_RestAPIExample_fakejsonServer\\PostObject.cs",
+              "RelativeDocumentMoniker": "PostObject.cs",
+              "ToolTip": "D:\\VS\\AutomationC#_lesson7_RestAPIExample_fakejsonServer\\PostObject.cs",
+              "RelativeToolTip": "PostObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T12:27:45.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JSON_FakeServer_Methods.cs",
+              "DocumentMoniker": "D:\\VS\\AutomationC#_lesson7_RestAPIExample_fakejsonServer\\JSON_FakeServer_Methods.cs",
+              "RelativeDocumentMoniker": "JSON_FakeServer_Methods.cs",
+              "ToolTip": "D:\\VS\\AutomationC#_lesson7_RestAPIExample_fakejsonServer\\JSON_FakeServer_Methods.cs",
+              "RelativeToolTip": "JSON_FakeServer_Methods.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAkwEoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T12:15:59.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RestSharp_Test_Api_GitHub.cs",
+              "DocumentMoniker": "D:\\VS\\AutomationC#_lesson7_RestAPIExample_fakejsonServer\\RestSharp_Test_Api_GitHub.cs",
+              "RelativeDocumentMoniker": "RestSharp_Test_Api_GitHub.cs",
+              "ToolTip": "D:\\VS\\AutomationC#_lesson7_RestAPIExample_fakejsonServer\\RestSharp_Test_Api_GitHub.cs",
+              "RelativeToolTip": "RestSharp_Test_Api_GitHub.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T11:19:11.827Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
