@@ -18,8 +18,8 @@ namespace AutomationC__lesson7_RestAPIExample_fakejsonServer
         [Test]
         public void CheckThatExpectedLoginIsEqualRepsonseLogin()
         {
-            RestClient client = new RestClient("https://api.github.com/");
-            ResRequest request = new RestRequest("users/Nelyskov", Method.Get);
+            var client = new RestClient("https://api.github.com/");
+            var request = new RestRequest("users/Nelyskov", Method.Get);
 
             RestResponse response = client.Execute(request);
 
