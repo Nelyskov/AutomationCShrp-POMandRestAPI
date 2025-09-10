@@ -1,7 +1,7 @@
 ======= RestAPI ====== 
 
-Before execution, you need to raise the JSON server and NodeJs
-Example JSON server: https://github.com/typicode/json-server
+Before execution, you need to raise the JSON server and NodeJs.
+Example JSON server: https://github.com/typicode/json-server .
 Example NodeJS: https://nodejs.org/
 
 1. Creat file db.json with any struct and open on Code redactor (Examle VS Code)
