@@ -51,8 +51,8 @@ namespace AutomationC__lesson7_RestAPIExample_fakejsonServer
             PostObject post = new PostObject()
             {
                 name = "Nikita Lyskov",
-                phone = "926 425 0250",
-                email = "nlyskv12@gmail.com",
+                phone = "92* *** **50",
+                email = "n*****12@gmail.com",
                 alphanumeric = "XYU",
                 currency = "$10 000.00",
                 numberrange = 100,
